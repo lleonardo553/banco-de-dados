@@ -1,8 +1,9 @@
-leozin@gmail.com
+usuario: leozin@gmail.com
 senha: 12345
 
-davi@gmail.com
+usuari: davi@gmail.com
 senha:12345
 
-brunao@gmail.com
+usuario: brunao@gmail.com
+
 senha:12345
