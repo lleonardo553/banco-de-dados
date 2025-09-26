@@ -1,9 +1,5 @@
-usuario: leozin@gmail.com
-senha: 12345
-
-usuari: davi@gmail.com
-senha:12345
-
-usuario: brunao@gmail.com
-
-senha:12345
+leozin:12345
+davi:12345
+brunao:12345
+admin:senha123
+teste:abc123
