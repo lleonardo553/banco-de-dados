@@ -3,5 +3,7 @@ davi:12345
 brunao:12345
 admin:senha123
 teste:abc123
+paulo:12345
+
 
 
