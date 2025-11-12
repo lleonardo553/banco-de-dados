@@ -1,6 +1,0 @@
-mouse gamer razer
-imagem: https://github.com/lleonardo553/banco-de-dados/blob/main/61L2ILWnM6L._AC_SX679_.jpg
-preço: R$ 90,00
-quando está em promoção: R$ 50,00
-
-esta em promoção: sim
