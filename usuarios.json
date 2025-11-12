@@ -1,7 +1,7 @@
 {
   "usuarios": [
-    { "id": 1, "nome": "Léo", "senha": "1234" },
-    { "id": 2, "nome": "Uryel", "senha": "abcd" },
-    { "id": 3, "nome": "Davi", "senha": "123" }
+    { "id": 1, "nome": "leo", "senha": "1234" },
+    { "id": 2, "nome": "uryel", "senha": "abcd" },
+    { "id": 3, "nome": "davi", "senha": "123" }
   ]
 }
