@@ -1,24 +1,9 @@
-{
+// JSON local com usuários
+const usuariosData = {
   "usuarios": [
-    {
-      "id": 1,
-      "nome": "leo",
-      "senha": "301011"
-    },
-    {
-      "id": 2,
-      "nome": "uryel",
-      "senha": "uryel123"
-    },
-    {
-      "id": 3,
-      "nome": "davi",
-      "senha": "davi123"
-    },
-    {
-      "id": 4,
-      "nome": "diego araujo",
-      "senha": "diego 7ano"
-    }
+    { "id": 1, "nome": "leo", "senha": "301011" },
+    { "id": 2, "nome": "uryel", "senha": "uryel123" },
+    { "id": 3, "nome": "davi", "senha": "davi123" },
+    { "id": 4, "nome": "diego araujo", "senha": "diego 7ano" } // <--- usuário novo
   ]
-}
+};
